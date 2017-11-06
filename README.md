@@ -17,6 +17,7 @@
 * [Rxjava](https://github.com/ReactiveX/RxJava)：Rxjava，响应式编程
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid)：在Android平台基于Rxjava实现的响应式编程框架
     * 相关文章
+    * http://www.jianshu.com/p/464fa025229e Season_zlc作者的九篇入门文章，加单易懂
 
 ## <a id="ios_source"></a>Ios开源框架
 * [RxSwift](https://github.com/ReactiveX/RxSwift)：iOS平台下的响应式编程框架
